@@ -2,7 +2,8 @@
 "lighthouse-gen":"0",
 "poser":"MPFIT",
 "disambiguator":"StateBased",
-"ootx-ignore-sync-error":"0"
+"ootx-ignore-sync-error":"0",
+"configed-lighthouse-gen":"2"
 "lighthouse0":{
 "index":"0",
 "id":"1083618720",
@@ -16,11 +17,12 @@
 "fcalogeephase":["1.362305","2.062500"],
 "fcalogeemag":["0.206665","0.187500"],
 "OOTXSet":"1",
-"PositionSet":"1"
+"PositionSet":"1",
+"accel":["0.000000","0.000000","0.000000"]
 }
 "lighthouse1":{
 "index":"1",
-"id":"-896227658",
+"id":"3398739638",
 "mode":"7",
 "pose":["1.750950","1.565459","1.642858","-0.277174","-0.220985","-0.537265","-0.765301"],
 "fcalphase":["0.000000","-0.006275"],
@@ -31,11 +33,12 @@
 "fcalogeephase":["2.216797","2.642578"],
 "fcalogeemag":["0.282715","0.172363"],
 "OOTXSet":"1",
-"PositionSet":"1"
+"PositionSet":"1",
+"accel":["0.000000","0.000000","0.000000"]
 }
 "lighthouse2":{
 "index":"2",
-"id":"-1529100124",
+"id":"2765867172",
 "mode":"0",
 "pose":["1.933761","-1.313081","1.527906","0.822461","0.468953","0.168387","0.274385"],
 "fcalphase":["0.000000","-0.002159"],
@@ -46,7 +49,8 @@
 "fcalogeephase":["0.762207","1.591797"],
 "fcalogeemag":["-0.209839","-0.188232"],
 "OOTXSet":"1",
-"PositionSet":"1"
+"PositionSet":"1",
+"accel":["0.000000","0.000000","0.000000"]
 }
 "lighthouse3":{
 "index":"3",
@@ -61,5 +65,6 @@
 "fcalogeephase":["1.700195","2.062500"],
 "fcalogeemag":["-0.368164","-0.299072"],
 "OOTXSet":"1",
-"PositionSet":"1"
+"PositionSet":"1",
+"accel":["0.000000","0.000000","0.000000"]
 }
